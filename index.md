@@ -18,12 +18,6 @@ This is a slidify demo
 ---
 ## Results
 
-
-```r
-x <- c(20, 50, 80, 120)
-barplot(x)
-```
-
 ![plot of chunk unnamed-chunk-1](assets/fig/unnamed-chunk-1.png) 
 
 ---
