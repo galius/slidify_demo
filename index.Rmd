@@ -18,9 +18,9 @@ This is a slidify demo
 ---
 ## Results
 
-```{r echo=TRUE, tidy_source=TRUE}
+```{r echo=false, tidy_source=TRUE}
 x <- c(20, 50, 80, 120)
-barplot(x)
+barplot(x, xlab="height")
 ```
 
 ---
